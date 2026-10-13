@@ -14,6 +14,4 @@ CS student at **UNC Chapel Hill** who builds full-stack apps end to end: backend
 
 **Working with:** Java · Kotlin · Python · TypeScript · C · React/Next.js · Spring Boot · FastAPI · Postgres · DynamoDB · Docker
 
-**Now:** Taking COMP 211 (systems), COMP 301 (software design), and STOR 155. Solving [NeetCode](https://github.com/steven-c302/neetcode-submissions) problems every week.
-
 📫 [loading@unc.edu](mailto:loading@unc.edu)
